@@ -1,0 +1,2 @@
+https://graph.facebook.com/oauth/authorize?client_id=181914128598305&redirect_uri=http://localhost:5000/callback&scope=offline_access,publish_stream,user_about_me,user_birthday
+
